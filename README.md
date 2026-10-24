@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isaac Arredondo
 
 ## About Me
-I'm a junior at UTSA majoring in Cybersecurity. I'm originally from Laredo, Texas and moved to San Antonio for school. Right now I work as an IT Data Analyst at Claudia's Home Care. Before that I worked at Grease Monkey in Laredo. When I'm not doing school or work I like working on cars with my friends.
+I'm a junior at UTSA majoring in Cybersecurity. I'm originally from Laredo, Texas and moved to San Antonio for school. Right now I work as an IT Data Analyst at Claudia's Home Care Provider. Before that I worked at Grease Monkey in Laredo. When I'm not doing school or work I like working on cars with my friends.
 
 ## ⚒️ Skills
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
