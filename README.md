@@ -15,6 +15,11 @@ I'm a junior at UTSA majoring in Cybersecurity. I'm originally from Laredo, Texa
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?logo=hackthebox&logoColor=white)](#)
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-3776AB?logo=databricks&logoColor=white)](#)
 [![Cars](https://img.shields.io/badge/Cars-CC0000?logo=cartrack&logoColor=white)](#)
+[![Networking](https://img.shields.io/badge/Networking-005073?logo=cisco&logoColor=white)](#)
+[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-111111?logo=kalilinux&logoColor=white)](#)
+[![Cloud Security](https://img.shields.io/badge/Cloud%20Security-FF9900?logo=amazonwebservices&logoColor=white)](#)
+[![Gaming](https://img.shields.io/badge/Gaming-107C10?logo=steam&logoColor=white)](#)
+[![PC Building](https://img.shields.io/badge/PC%20Building-76B900?logo=nvidia&logoColor=white)](#)
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/IsaacArredondo06)
